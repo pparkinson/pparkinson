@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pparkinson
+- 👋 Hi, I’m Phillip
 - 👀 I’m interested in SAP, Azure, Data & AI, Cloud and SAP on Azure
 - 🌱 I’m currently learning SAP on Azure and using SAP data in the Cloud
 - 💞️ I’m looking to collaborate on interesting Cloud and Cloud Native topics
